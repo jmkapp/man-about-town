@@ -1,4 +1,4 @@
-# ManAboutTown
+# Man About Town
 
 A Proof of Concept virtual video room for the [Man About Town project in Leeds](https://clothcatleeds.org.uk/projects/manabouttown/).
 
